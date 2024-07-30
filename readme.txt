@@ -1,0 +1,2 @@
+El desafío de esta clase era crear un CLI. Usamos la libreria Inquirer, version 8.0.0.
+El objetivo era dar los primeros pasos en el uso de FileSystem de Node.JS y poder realizar un CLI con una base de datos con FileSystem, Inquirer y JSON.
